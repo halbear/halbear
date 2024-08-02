@@ -10,6 +10,8 @@ https://iron-horse.dev/
 im Currently working on a multitude of things such as a space adventure mod for minecraft called Supernova,\
 aswell as a 2d windows forms based game engine called Terrain4
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halbear&show_icons=true&theme=tokyonight)
+
 <!--
 **halbear/halbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
